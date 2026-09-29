@@ -13,9 +13,9 @@ A Power BI practice project built from the [UCI Online Retail dataset](https://a
 
 **Returns Analysis** shows the value, rate, order count and quantity of product-related negative transactions, with a monthly trend and the top 10 product descriptions.
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](executive_overview.png)
 
-![Returns Analysis](screenshots/returns_analysis.png)
+![Returns Analysis](returns_analysis.png)
 
 Open the [Power BI file](online_retail_analysis.pbix) to inspect the model, calculations, and interactive visuals.
 
